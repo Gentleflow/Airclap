@@ -3,7 +3,7 @@
 The ultimate LAN cross-platform file transfer tool
 
 
-### 下载链接
+### Download
 #### iOS
 - App Store：https://apps.apple.com/app/%E7%89%87%E8%AF%AD/id6467128147
 
