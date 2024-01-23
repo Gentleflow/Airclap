@@ -1,4 +1,4 @@
-[![banner](images/banner.jpg)](https://www.airclap.app)
+[![banner](images/banner.png)](https://www.airclap.app)
 # Airclap
 The ultimate LAN cross-platform file transfer tool
 
