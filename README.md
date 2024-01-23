@@ -1,4 +1,4 @@
-[![banner](images/banner.png)](https://www.airclap.app)
+[![banner](images/banner.webp)](https://www.airclap.app)
 # Airclap
 Freely share files within the local network - cross-platform, minimalist, and user-friendly.
 
@@ -6,7 +6,7 @@ Freely share files within the local network - cross-platform, minimalist, and us
 [macOS](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) / [Windows](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-windows.exe) / [iOS](https://apps.apple.com/app/%E7%89%87%E8%AF%AD/id6467128147) / [Android](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-android.apk)
 
 ## Screenshots
-![Screenshots](images/display.png)
+![Screenshots](images/display.webp)
 
 ## Highlights
 
