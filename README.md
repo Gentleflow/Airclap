@@ -1,7 +1,9 @@
 [![banner](images/banner.png)](https://www.airclap.app)
 # Airclap
-The ultimate LAN cross-platform file transfer tool
+Freely share files within the local network - cross-platform, minimalist, and user-friendly.
 
+### Screenshots
+[![Screenshots](images/display.png)]
 
 ### Download
 #### iOS
