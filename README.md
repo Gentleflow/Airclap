@@ -3,10 +3,7 @@
 Freely share files within the local network - cross-platform, minimalist, and user-friendly.
 ### Download
 
-
-
-| [macOS](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) | [Windows](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-windows.exe) | [iOS](https://apps.apple.com/app/%E7%89%87%E8%AF%AD/id6467128147) | [Android](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-android.apk) |
-
+[macOS](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) / [Windows](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-windows.exe) / [iOS](https://apps.apple.com/app/%E7%89%87%E8%AF%AD/id6467128147) / [Android](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-android.apk)
 
 
 ### Screenshots
