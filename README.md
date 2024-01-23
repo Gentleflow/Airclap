@@ -17,6 +17,18 @@ Freely share files within the local network - cross devices, minimalist, and use
 - Support Mac, iOS, Windows, and Android
 - Install quickly from airclap.app or app stores
 
+#### 🔮 &nbsp;Morden User Interface
+- Simplified and user-friendly transfer experience
+- Clear and intuitive feedback
+
+#### ⚡️ &nbsp;Hyper-Fast Transfer Speed
+- Maximum transfer speed available on the local network
+- Highly stable transmission process
+- real-time status
+
+#### 📃 &nbsp; Clear File Records
+- abundant shortcuts
+- Clear file list and preview thumbnails
 
 
 ### Download
