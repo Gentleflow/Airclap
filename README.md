@@ -9,11 +9,11 @@ Freely share files within the local network - cross devices, minimalist, and use
 ![Screenshots](images/display.webp)
 
 ## Highlights
-**🌎 &ensp; No Internet Required**
+**🌎 &nbsp; No Internet Required**
 - Wireless transfer
 - Nearby sharing 
 
-**🖥️ &ensp; Cross different Platforms**
+**🖥️ &nbsp; Cross different Platforms**
 - Support Mac, iOS, Windows, and Android
 - Install quickly from airclap.app or app stores
 
