@@ -3,7 +3,7 @@
 Freely share files within the local network - cross-platform, minimalist, and user-friendly.
 
 ### Screenshots
-[![Screenshots](images/display.png)]
+![Screenshots](images/display.png)
 
 ### Download
 #### iOS
