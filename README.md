@@ -8,6 +8,13 @@ Send any file to any device - cross platform, ultra fast and easy to use. We hop
 ## Download
 [macOS](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) / [Windows](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-windows.exe) / [iOS](https://apps.apple.com/app/%E7%89%87%E8%AF%AD/id6467128147) / [Android](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-android.apk)
 
+## Download
+
+|  | macOS | Windows | iOS |  Android |
+|:--|:--|:--|:--|:--|
+| 安装包 | [<img src="images/dmg.webp" alt="dmg" width="199" height="60">](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) |  |  |  |
+| 应用商店 |  |  |  |  |
+
 ## Screenshots
 ![Screenshots](images/display.webp)
 
