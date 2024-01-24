@@ -1,6 +1,6 @@
 [![banner](images/banner.webp)](https://www.airclap.app)
 # Airclap
-Freely share files within the local network - cross devices, minimalist, and user-friendly. We hope you can enjoy life instead of wasting time on file transfers.
+Share any file to any device – cross systems and devices, ultra fast and easy to use. We hope you can enjoy life instead of wasting time on file transfers.
 
 ## Homepage
 [airclap.app](https://www.airclap.app)
@@ -21,7 +21,7 @@ Freely share files within the local network - cross devices, minimalist, and use
 #### 🔮 &nbsp;Morden User Interface
 - Simplified and user-friendly transfer experience
 - Clear and intuitive feedback
-#### ⚡️ &nbsp;Hyper-Fast Transfer Speed
+#### ⚡️ &nbsp;Ultra Fast Transfer Speed
 - Maximum transfer speed available on the local network
 - Highly stable transmission process
 - real-time status
