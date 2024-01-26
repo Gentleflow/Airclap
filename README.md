@@ -30,9 +30,9 @@ Send any file to any device - cross platform, ultra fast and easy to use. We hop
 - Maximum transfer speed available on the local network
 - Highly stable transmission process
 - real-time status
-#### 📃 &nbsp; Clear File Records
+#### 📃 &nbsp; Clarity File Records
 - abundant shortcuts
-- Clear file list and preview thumbnails
+- Clarity file list and preview thumbnails
 
 ### Support and Feedback
 [airclap.canny.io](https://airclap.canny.io/feedback)
