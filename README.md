@@ -1,9 +1,9 @@
-[![banner](images/banner.webp)](https://www.airclap.app)
+[![banner](images/banner.webp)](https://airclap.app)
 # Airclap
 Send any file to any device - cross platform, ultra fast and easy to use. We hope you can enjoy life instead of wasting time on file transfers.
 
 ## Homepage
-[airclap.app](https://www.airclap.app)
+[airclap.app](https://airclap.app)
 
 ## Download
 | Platform | Package and App Store |
