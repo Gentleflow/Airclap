@@ -39,9 +39,10 @@ Send any file to any device - cross platform, ultra fast and easy to use. We hop
 Thanks to these open-source libraries, Their contributions made the creation of Airclap possible:
 
 - [Flutter](https://flutter.dev/)
+- [Flutter Candies - Flutter Plugins](https://github.com/fluttercandies)
 - [Flutter Community - Flutter Plugins](https://github.com/fluttercommunity)
 - [LeanFlutter - Flutter Desktop Plugins](https://github.com/leanflutter)
-- more ...
+- More ......
 
 ### Support and Feedback
 [airclap.canny.io](https://airclap.canny.io/feedback)
