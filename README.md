@@ -1,6 +1,6 @@
 [![banner](images/banner.webp)](https://airclap.app)
 # Airclap
-Send any file to any device - cross platform, ultra fast and easy to use. We hope you can enjoy life instead of wasting time on file transfers.
+Send any file to any device - cross platform, ultra fast and easy to use. We aim to help you enjoy life rather than waste time on file transfers.
 
 ## Homepage
 [airclap.app](https://airclap.app)
