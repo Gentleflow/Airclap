@@ -1,7 +1,7 @@
 
 {
-  "version": "1.1.1",
+  "version": "1.0.9",
   "changelog": "We added instructions on how to send on the Airclap desktop.\nWe made some interfaces look better.\nWe made some feature improvements and squashed bugs.",
-  "isForce": true,
+  "isForce": false,
   "downloadUrl": "https://apps.apple.com/cn/app/id6467128147"
 }
