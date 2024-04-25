@@ -2,13 +2,13 @@
 
 [![banner](../images/banner.webp)](https://airclap.app)
 # Airclap
-跨平台文件传输工具，现代设计、极速稳定、打开即用，让文件在任意设备间自由发送。
+跨平台文件傳輸工具，現代設計、極速穩定、打開即用，讓文件在任意設備間自由發送。
 
-## 官网
+## 官網
 [airclap.app](https://airclap.app)
 
-## 下载和安装
-| 平台 | 安装包和应用商店 |
+## 下載和安裝
+| 平台 | 安裝包和應用商店 |
 |:--|:--|
 | macOS | [<img src="../images/dmg.webp" alt="dmg" width="199" height="60">](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-macos.dmg) <br> [<img src="../images/mac.webp" alt="mac app store" width="199" height="60">](https://apps.apple.com/us/app/airclap/id6467128147?l=zh-Hans-CN) |
 | Windows | [<img src="../images/exe.webp" alt="dmg" width="199" height="60">](https://github.com/Gentleflow/Airclap/releases/latest/download/Airclap-windows.exe) <br> [<img src="../images/ms.webp" alt="microsoft store" width="199" height="60">](https://www.microsoft.com/store/productId/9N19C4QDKR6D)|
@@ -18,27 +18,27 @@
 ## 界面
 ![Screenshots](../images/display.webp)
 
-## 产品特点
-#### 🌎 &nbsp;无需连接互联网
-- 无线局域网传输
-- 面对面分享 
-#### 🖥️ &nbsp;跨平台、跨系统、跨设备
-- 支持 Mac, iOS, Windows, and Android 之间互传
-- 官网直接安装
-#### 🔮 &nbsp;现代设计
-- 简单易用的传输体验
-- 清晰直观的界面和反馈
-#### ⚡️ &nbsp;极速传输速度
-- 使用局域网最大传输值
-- 稳定的传输过程
-- 实时的传输进度显示
-#### 📃 &nbsp; 清晰的传输记录
-- 丰富的快捷操作
-- 直观的文件预览
+## 產品特點
+#### 🌎 &nbsp;無需連接互聯網
+- 無線局域網傳輸
+- 面對面分享 
+#### 🖥️ &nbsp;跨平台、跨系統、跨設備
+- 支持 Mac, iOS, Windows, and Android 之間互傳
+- 官網直接安裝
+#### 🔮 &nbsp;現代設計
+- 簡單易用的傳輸體驗
+- 清晰直觀的界面和反饋
+#### ⚡️ &nbsp;極速傳輸速度
+- 使用局域網最大傳輸值
+- 穩定的傳輸過程
+- 實時的傳輸進度顯示
+#### 📃 &nbsp; 清晰的傳輸記錄
+- 豐富的快捷操作
+- 直觀的文件預覽
 
-### 鸣谢
+### 鳴謝
 
-感谢以下开源项目，它们的共享让Airclap变成可能：
+感謝以下開源項目，它們的共享讓Airclap變成可能：
 
 - [Flutter](https://flutter.dev/)
 - [Flutter Candies - Flutter Plugins](https://github.com/fluttercandies)
@@ -46,5 +46,5 @@
 - [LeanFlutter - Flutter Desktop Plugins](https://github.com/leanflutter)
 - ……
 
-### 支持和反馈
+### 支持和反饋
 [airclap.canny.io](https://airclap.canny.io/feedback)
