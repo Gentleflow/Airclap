@@ -1,3 +1,4 @@
+[English](https://github.com/Gentleflow/Airclap/docs/README.md) / [繁体中文](https://github.com/Gentleflow/Airclap/docs/README-TC.md) / [简体中文](https://github.com/Gentleflow/Airclap/docs/README-SC.md) / [日本語](https://github.com/Gentleflow/Airclap/docs/README-JP.md) / [한국어](https://github.com/Gentleflow/Airclap/docs/README-KO.md)  
 [![banner](images/banner.webp)](https://airclap.app)
 # Airclap
 Send any file to any device - The best file transfer tool that is user-friendly, cross-platform, ultra-fast, and beautifully designed.
@@ -42,7 +43,7 @@ Thanks to these open-source libraries, Their contributions made the creation of 
 - [Flutter Candies - Flutter Plugins](https://github.com/fluttercandies)
 - [Flutter Community - Flutter Plugins](https://github.com/fluttercommunity)
 - [LeanFlutter - Flutter Desktop Plugins](https://github.com/leanflutter)
-- More ......
+- ……
 
 ### Support and Feedback
 [airclap.canny.io](https://airclap.canny.io/feedback)
