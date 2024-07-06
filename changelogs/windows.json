@@ -1,7 +1,7 @@
 
 {
-  "version": "1.2.0",
-  "changelog": "We made some feature improvements and squashed bugs.",
+  "version": "1.2.1",
+  "changelog": "Fixed file receiving issues on some devices.\nMade some feature improvements and squashed bugs.",
   "isForce": false,
   "downloadUrl": "https://apps.microsoft.com/detail/9n19c4qdkr6d"
 }
