@@ -1,7 +1,7 @@
 
 {
 "version": "1.2.1",
-  "changelog": "Fixed file receiving issues on some devices.\nMade some feature improvements and squashed bugs.",
+  "changelog": "- Fixed file receiving issues on some devices.\n- Made some feature improvements and squashed bugs.",
   "isForce": false,
   "downloadUrl": "https://apps.apple.com/cn/app/id6467128147"
 }
