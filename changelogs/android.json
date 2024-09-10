@@ -1,7 +1,7 @@
 
 {
-  "version": "1.2.1",
-  "changelog": "- Fixed file receiving issues on some devices.\n- Made some feature improvements and squashed bugs.",
+  "version": "1.2.2",
+  "changelog": "- File transfer shows remaining time.\n- Desktop: You can now change the file save path.\n- Made some feature improvements and squashed bugs.",
   "isForce": false,
   "downloadUrl": "https://play.google.com/store/apps/details?id=tech.gentleflow.airclap.pro"
 }
