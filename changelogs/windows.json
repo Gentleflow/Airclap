@@ -1,7 +1,7 @@
 
 {
-  "version": "1.2.2",
-  "changelog": "- File transfer shows remaining time.\n- Desktop: You can now change the file save path.\n- Made some feature improvements and squashed bugs.",
-  "isForce": false,
+  "version": "1.2.3",
+  "changelog": "- Transfer speed improved by over 200%.\n- Made some feature improvements and squashed bugs.",
+  "isForce": true,
   "downloadUrl": "https://apps.microsoft.com/detail/9n19c4qdkr6d"
 }
