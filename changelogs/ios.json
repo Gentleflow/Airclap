@@ -1,7 +1,6 @@
-
 {
-  "version": "1.2.3",
-  "changelog": "- Transfer speed improved by over 200%.\n- Made some feature improvements and squashed bugs.",
+  "version": "1.2.6",
+  "changelog": "- Fixed issue preventing Airclap from opening on iOS 18 when using Shared Mode.\n- Made some feature improvements and squashed bugs.",
   "isForce": true,
   "downloadUrl": "https://apps.apple.com/cn/app/id6467128147"
 }
