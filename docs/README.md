@@ -45,6 +45,3 @@ Thanks to these open-source libraries, Their contributions made the creation of 
 - [Flutter Community - Flutter Plugins](https://github.com/fluttercommunity)
 - [LeanFlutter - Flutter Desktop Plugins](https://github.com/leanflutter)
 - ……
-
-### Support and Feedback
-[airclap.canny.io](https://airclap.canny.io/feedback)
